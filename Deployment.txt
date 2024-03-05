@@ -1,0 +1,18 @@
+you can use this link to see this website: https://neon-basbousa-bdd330.netlify.app/
+For google sheet click on this link: https://docs.google.com/spreadsheets/d/1oVobtkSPFJ8hwIY5FZY1l0YOqdlNIv8ew7RVPpH674s/edit#gid=0
+
+
+to deploy on local server do the following:
+
+Prerequisites:
+Node.js and npm installed on your machine.
+
+Deployment Steps:
+Firstly, download or push the code to your desktop application. 
+Open a terminal window.
+Navigate to your React app's root directory.
+run code "npm i" to initialize project with node modules
+Run the following command to build your app: "npm run build"
+Lastly run following command to make it live on local server: "npm start"
+
+
